@@ -2,7 +2,7 @@
 
 ## Overview
 
-Simple Notes with Drive Sync is a desktop note-taking application built with Python and Tkinter. It allows users to create, edit, save, and delete notes locally. Additionally, it features integration with Google Drive for backing up and synchronizing notes to your personal Google Drive account, stored in a special application-specific folder.
+Simple Notes with Drive Sync is a desktop note-taking application built with Python and Tkinter. It allows users to create, edit, save, and delete notes locally. Additionally, it features integration with Google Drive for backing up and synchronizing  notes to your personal Google Drive account, stored in a special application-specific folder.
 
 ## Features
 
